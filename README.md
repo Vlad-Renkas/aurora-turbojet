@@ -15,7 +15,7 @@ It represents my transition from aerospace machinist to mechanical engineer, des
 | Idle RPM | 60,000–80,000 | depends on compressor map |
 | Max RPM | <200,000 | within turbo and bearing limits |
 | Fuel | Kerosene | atomized nozzle |
-| Ignition | Propane pilot | start sequence below |
+| Ignition | glow plug/igniter | start sequence below |
 | Balance tolerance | per vendor for this rotor size | track residual g·cm |
 
 ---
